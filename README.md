@@ -1,4 +1,4 @@
-# WebLoginAssignment
+# WebLoginPageAssignment
 This WebLoginAssignment is for the AWAK assignment
 
 ## Overview
@@ -45,8 +45,6 @@ You can easily customize the look and feel of the login page by modifying the `s
 ## Browser Compatibility
 This login page is designed to work on modern web browsers including:
 - Google Chrome (latest)
-- Mozilla Firefox (latest)
-- Safari (latest)
 - Microsoft Edge (latest)
 
 ## Assignment Requirements Fulfilled
@@ -65,9 +63,10 @@ This login page is designed to work on modern web browsers including:
 None.
 
 ## Contact
-Chetan Sapnar - [cs.sapnar2000@gmail.com](mailto:ypjadhav09@gmail.com)
+Chetan Sapnar - [cs.sapnar2000@gmail.com](mailto:cs.sapnar2000@gmail.com)
 
 Project Link: [https://github.com/chetansapnar/WebLoginPageAssignment](https://github.com/chetansapnar/WebLoginPageAssignment)
 
 Project Live Demo: [https://chetansapnar.github.io/WebLoginPageAssignment/](https://chetansapnar.github.io/WebLoginPageAssignment/)
+
 
