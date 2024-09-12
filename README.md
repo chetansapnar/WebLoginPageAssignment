@@ -65,7 +65,7 @@ This login page is designed to work on modern web browsers including:
 None.
 
 ## Contact
-Chetan Sapnar - [ypjadhav09@gmail.com](mailto:ypjadhav09@gmail.com)
+Chetan Sapnar - [cs.sapnar2000@gmail.com](mailto:ypjadhav09@gmail.com)
 
 Project Link: [https://github.com/chetansapnar/WebLoginPageAssignment](https://github.com/chetansapnar/WebLoginPageAssignment)
 
